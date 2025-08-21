@@ -3,10 +3,10 @@ An interactive Power BI dashboard analyzing workforce stability by exploring tre
 Workforce Stability Dashboard
 Analyzing employee turnover and stability based on marital status, gender, and age.
 
-##Overview
+Overview
 This project features a comprehensive and interactive Power BI dashboard designed to analyze and visualize workforce stability within an organization. The primary objective is to identify key trends and patterns in employee retention and turnover by segmenting the data by marital status, gender, and age. This analysis provides actionable insights for Human Resources and management to develop targeted strategies for improving employee satisfaction and reducing voluntary turnover.
 
-###Data Source
+Data Source
 The dataset for this dashboard was obtained from Kaggle.com https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset. The data was processed and cleaned using Microsoft Excel, Power Query, which involved several key steps:
 
 Initial data profiling and cleansing to handle missing values and inconsistencies.
